@@ -1,0 +1,13 @@
+C:\Users\sneha\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.exe
+C:\Users\sneha\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.deps.json
+C:\Users\sneha\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.runtimeconfig.json
+C:\Users\sneha\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.runtimeconfig.dev.json
+C:\Users\sneha\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.dll
+C:\Users\sneha\source\repos\BWConnection\BWConnection\bin\Debug\netcoreapp3.1\BWConnection.pdb
+C:\Users\sneha\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.csprojAssemblyReference.cache
+C:\Users\sneha\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.AssemblyInfoInputs.cache
+C:\Users\sneha\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.AssemblyInfo.cs
+C:\Users\sneha\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.csproj.CoreCompileInputs.cache
+C:\Users\sneha\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.dll
+C:\Users\sneha\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.pdb
+C:\Users\sneha\source\repos\BWConnection\BWConnection\obj\Debug\netcoreapp3.1\BWConnection.genruntimeconfig.cache
